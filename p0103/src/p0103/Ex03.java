@@ -1,7 +1,7 @@
 package p0103;
 class coffee{
 	public String getName() {
-		return name;
+		return name;Z
 	}
 	public void setName(String name) {
 		this.name = name;
